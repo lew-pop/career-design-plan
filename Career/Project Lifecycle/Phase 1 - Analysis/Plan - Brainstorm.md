@@ -1,0 +1,6 @@
+- Outline the steps to develop portfolio and resume.
+- List steps to apply and follow up on job leads.
+- Linkedin
+- GitHub
+- Portfolio Website
+- 
