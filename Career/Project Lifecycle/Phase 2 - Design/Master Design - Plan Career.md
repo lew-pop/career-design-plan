@@ -13,12 +13,12 @@ Reference: [[Master Plan - Design Career Path]]
 	- Development Tools
 - **Establish Goals:**
 	- Short-term (6 - 12 months):
-		- [ ] Develop GitHub to showcase skills
+		- [x] Develop GitHub to showcase skills
 		- [ ] Generate a portfolio website
-		- [ ] Generate a solid base resume and cover letter
-		- [ ] Increase time spent on LinkedIn
-		- [ ]  Search and schedule job fairs
-		- [ ]  Attend at least 1 job fair
+		- [x] Generate a solid base resume and cover letter
+		- [x] Increase time spent on LinkedIn
+		- [x]  Search and schedule job fairs
+		- [x]  Attend at least 1 job fair
 
 	-  Long-term (2 - 5 years):
 		- [ ] Establish myself as a productive and beneficial developer for a company
